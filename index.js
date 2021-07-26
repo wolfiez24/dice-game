@@ -17,4 +17,4 @@ if (randonNumber1>randonNumber2){
   winner = "DRAW !";
 }
 
-document.querySelectorAll("h1")[0].innerHTML = winner;
+document.querySelectorAll("h1")[1].innerHTML = winner;
